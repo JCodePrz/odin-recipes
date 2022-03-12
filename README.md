@@ -1,1 +1,2 @@
 # odin-recipes
+This following project will work on usng what I have learned so far on HTML in this course. It won't look pretty but it will be worked on as I expand my knowledge with CSS and Javascript.
